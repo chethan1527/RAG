@@ -1,4 +1,4 @@
-Data Ingestion:
+**Data Ingestion**:
     PyPDFLoader,PyMuPDFLoader-> Two different PDF parsing libraries
     DirectoryLpader-> Loads multiple files from a directory
 
